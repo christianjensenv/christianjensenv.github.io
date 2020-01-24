@@ -19,6 +19,12 @@ Athletic software engineering with Javascript is awesome because we can think of
 
 ## Multiple condition operators
 
-<img class="ui large right floated rounded image" src="/images/multipleCondition.PNG">
+```
+function checksign(num){
+  return num > "positive" : num < 0 ? "negative" : "zero";
+  }
+  
+  checkSign(10);
+```
 
 I think this type of structure we learned from code camp is interesting as it allows us to shorten a function significantly. It's good for fast function making, and in difficult WOD's, every second counts. 
