@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/A5G.png
+image: images/A5G.PNG
 title: Overwatch Open Division
 permalink: projects/Overwatch Open Division
 # All dates must be YYYY-MM-DD format!
