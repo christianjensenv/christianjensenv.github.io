@@ -21,5 +21,4 @@ Overwatch is a six versus six team-based game that has dynamic aspects of positi
 
 For A5G I played the main tank, which means I am responsible for not only leading the team and calling shots, I protect my team aswell. I have to keep track of all players including the enemy team and remember the ultimate charges of enemies, which I use that information to call predictions to my teammates to keep them safe. I can flex to DPS and off-tank as well, I played as fill because of my school schedule. The times where I'd play were mostly skrimmages held by the team captains to practice. However most of the time we played so good, the other teams would give up and revaluate their rosters. From spawn camping their doors to playing off-meta heroes we worked well as a team. 
 
-Team on 
-[Battlefy](https://battlefy.com/teams/5acac03b3abdca036e64fc93)
+Team on [Battlefy](https://battlefy.com/teams/5acac03b3abdca036e64fc93).
