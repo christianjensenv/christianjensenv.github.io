@@ -22,5 +22,6 @@ I was brought into a filming program my 7th grade of middle school which my Dad 
 
  
 Some live shots
-[Hawaii News Now](https://www.hawaiinewsnow.com/story/36282538/hundreds-hit-the-ground-running-for-9th-annual-kauai-marathon/),
+[Hawaii News Now](https://www.hawaiinewsnow.com/story/36282538/hundreds-hit-the-ground-running-for-9th-annual-kauai-marathon/)
+,
 [Star Advertiser](https://www.staradvertiser.com/2014/08/09/breaking-news/firefighters-find-body-of-missing-hiker-swept-down-kauai-stream/)
