@@ -15,7 +15,7 @@ Java script is a curious language and I think I categorize it as my favorite lan
 
 ## Solving problems fast
 
-Athletic software engineering with Javascript is awesome because we can think of the problem and try our best to solve the WOD's. It's is good that we use JS because it's the ability to assume what you may be trying to do. I like how it tries to interpret strings as numbers if you pass it through a parameter that takes a const. I think that is unique to this language because usually an error will be thrown and your program won't work. The pressure of the WOD's helps students learn how to work fast as they have little time to react. In the workforce, some professions require fast solutions, so building on this skill is very useful. 
+Athletic software engineering with Javascript is awesome because we can think of the problem and try our best to solve the WOD's. It is good that we use Java script because it's ability to assume what you may be trying to do. I like how it tries to interpret strings as numbers if you pass it through a parameter that takes a const. I think that is unique to this language because usually an error will be thrown and your program won't work. The pressure of the WOD's helps students learn how to work fast as they have little time to react. In the workforce, some professions require fast solutions, so building on this skill is very useful. 
 
 ## Multiple condition operators
 
