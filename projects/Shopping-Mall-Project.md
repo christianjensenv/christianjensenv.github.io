@@ -17,4 +17,4 @@ I took the opportunity to work on a job site over the summer. In this project, w
 
 <img class="ui large right floated rounded image" src="/images/construction (2).jpg">
 
-It was also very dangerous work and that why the safety precautions were in place. Hardhats, construction shirts, jeans, and shoes were just the basics. We wore masks when cutting Hardie board as it shot out cement dust which harmful to your lungs. being able to experience the dangers of a job like this inspired me to think of ways technology could help. 
+It was also very dangerous work and that why the safety precautions were in place. Hardhats, construction shirts, jeans, and shoes were just the basics. We wore masks when cutting Hardie board as it shot out cement dust which harmful to your lungs. Being able to experience the dangers of a job like this inspired me to think of ways technology could help make the workplace/ jobsite safer. 
