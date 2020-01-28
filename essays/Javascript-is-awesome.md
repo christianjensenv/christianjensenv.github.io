@@ -11,7 +11,7 @@ labels:
 
 ## My favorite language
 
-Java script is a curious language and I think I categorize it as my favorite language so far. It is not lazy per se, but it's the ability to shorthand is amazing. I am a complete newbie but the JS language is not that much different from Java (yet). I think if you want to whip up some fast programs Javascript seems like the language to use. From an engineering perspective, it is less complex than C or C++, which means less possibility for errors. When using C its easy to get choked up in all its complexities because it deals with pointers.
+Javascript is a curious language and I think I categorize it as my favorite language so far. It is not lazy per se, but it's the ability to shorthand is amazing. I am a complete newbie but the JS language is not that much different from Java (yet). I think if you want to whip up some fast programs Javascript seems like the language to use. From an engineering perspective, it is less complex than C or C++, which means less possibility for errors. When using C its easy to get choked up in all its complexities because it deals with pointers. 
 
 ## Solving problems fast
 
@@ -27,4 +27,4 @@ function checksign(num){
   checkSign(10);
 ```
 
-I think this type of structure we learned from code camp is interesting as it allows us to shorten a function significantly. It's good for fast function making, and in difficult WOD's, every second counts. 
+I think this type of structure we learned from code camp is interesting as it allows us to shorten a function significantly. It's good for fast function making, and in difficult WOD's, every second counts. Javascript overall feels more relaxed than Java or any language we've learned so far. They always say that programmers are lazy, which is why I feel that JS is fun to use, and still has alot of tricks for me to learn. 
