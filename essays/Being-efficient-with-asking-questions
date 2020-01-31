@@ -51,14 +51,22 @@ punishment in itself.
       getFacultyNames function is required but was not passed in.]</faultstring>
    ```
    
-This is a question that has more weight and importance behind it than a normal question. This is a great way to ask and structure a
+This is a question that has more weight and importance behind it than a normal question. This is a great way to ask and structure a 
 problem that you’ve run into. The user has a perplexing question that sparked the interest of many respondents. The user demonstrates 
 that they are willing to give extra information about what they are using and what the parameter that the application takes in. This 
-question proved that it was a difficult problem to solve as the solution using a unique method to encode the names with hex to prevent
-running into a bug. 
+question proved that it was a difficult problem to solve as the solution using a unique method to encode the names with hex to prevent 
+running into a bug. This user shows that they know what they are doing, yet they ran into a confusing problem that isn’t easy to solve,
+and that’s a proper use of StackOverflow.
 
+The positive outcomes that come from this kind of question are that you help out a lot of people by asking it alone. Some people may 
+have gotten stuck with a similar problem but didn’t know how to ask. It’s similar to a classroom, your question might be what others 
+are thinking but just don’t know how to structure the question in the first place. Just based on the votes of the question shows that 
+my point isn’t far from the truth. On the other side of the question, it helps respondents exercise their skills, you get much more 
+meaningful answers this way.
 
-## Multiple condition operators
+## In conclusion
 
-
+There is no such thing as a stupid question but knowing when to post it up or to do your own research is two different things. Having 
+the necessary steps to solving a problem is a must before putting a question on the web, especially on StackOverflow. Being called out
+for being lazy would be the worst thing possible. 
 
