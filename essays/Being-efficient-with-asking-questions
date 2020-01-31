@@ -10,6 +10,7 @@ labels:
 ---
 
 ## An example of a bad question
+
 - Gives an infinite loop
     I am using a List in Java and I am iterating through the collection to work with the created list
     of integer values. Why is this resulting in an infinite loop?
@@ -41,6 +42,7 @@ like this with passive-aggressiveness, or people treating you as if you are stup
 punishment in itself. 
 
 ## An example of a good question
+
 - How to pass “Null” (a real surname!) to a SOAP web service in ActionScript 3
     We have an employee whose surname is Null. Our employee lookup application is killed when that last name is used as the search term 
     (which happens to be quite often now). The error received (thanks Fiddler!) is:
