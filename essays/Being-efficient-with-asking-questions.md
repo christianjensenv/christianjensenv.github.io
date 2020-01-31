@@ -26,6 +26,7 @@ do {
     System.out.println(li.get(j));
 } while(j < li.size());
 ```
+
 A question such as this one is very low effort and seems rushed. Eric Raymond tells us that to be a nice question-asker you must do 
 your research before putting a question out on the web. The user’s actual question is located at the end of his description, by doing
 this his header says "Hey fix my issue!". It’s never good to throw out a problem on the internet without even showing that you exhaust
@@ -49,8 +50,7 @@ punishment in itself.
 ```
 <soapenv:Fault>
    <faultcode>soapenv:Server.userException</faultcode>
-   <faultstring>coldfusion.xml.rpc.CFCInvocationException: [coldfusion.runtime.MissingArgumentException : The SEARCHSTRING parameter
-      to the getFacultyNames function is required but was not passed in.]</faultstring>
+   <faultstring>coldfusion.xml.rpc.CFCInvocationException: [coldfusion.runtime.MissingArgumentException : The SEARCHSTRING parameter to the getFacultyNames function is required but was not passed in.]</faultstring>
 ```
    
 This is a question that has more weight and importance behind it than a normal question. This is a great way to ask and structure a 
@@ -73,7 +73,7 @@ the necessary steps to solving a problem is a must before putting a question on 
 for being lazy would be the worst thing possible.
 
 StackOverflow links
-[Bad Question](https://stackoverflow.com/questions/19314079/gives-an-infinite-loop)
+[Bad Question] (https://stackoverflow.com/questions/19314079/gives-an-infinite-loop)
 ,
-[Smart Question](https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3)
+[Good Question] (https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3)
 
