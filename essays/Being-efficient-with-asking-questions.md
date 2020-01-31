@@ -25,7 +25,6 @@ for (i = 0; i < 10; i++) {
 do {
     System.out.println(li.get(j));
 } while(j < li.size());
-
 ```
 A question such as this one is very low effort and seems rushed. Eric Raymond tells us that to be a nice question-asker you must do 
 your research before putting a question out on the web. The user’s actual question is located at the end of his description, by doing
@@ -52,7 +51,7 @@ punishment in itself.
    <faultcode>soapenv:Server.userException</faultcode>
    <faultstring>coldfusion.xml.rpc.CFCInvocationException: [coldfusion.runtime.MissingArgumentException : The SEARCHSTRING parameter
       to the getFacultyNames function is required but was not passed in.]</faultstring>
-   ```
+```
    
 This is a question that has more weight and importance behind it than a normal question. This is a great way to ask and structure a 
 problem that you’ve run into. The user has a perplexing question that sparked the interest of many respondents. The user demonstrates 
