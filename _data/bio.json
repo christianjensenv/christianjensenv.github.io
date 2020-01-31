@@ -78,74 +78,17 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "GH Group Construction",
+      "position": "Laborer",
+      "website": "http://gh-group.com/",
+      "startDate": "2019-06-20",
+      "endDate": "2019-07-1",
+      "summary": "Construction summer job",
       "highlights": [
         "",
         ""
       ]
     },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
   ],
-  "volunteer": [
-    {
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": "."
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "reference": ""
-    }
-  ]
+ 
 }
