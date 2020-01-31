@@ -55,14 +55,6 @@
         "Javascript"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Git/GitHub",
-      ]
-    }
   ],
   "education": [
     {
@@ -84,10 +76,6 @@
       "startDate": "2019-06-20",
       "endDate": "2019-07-1",
       "summary": "Construction summer job",
-      "highlights": [
-        "",
-        ""
-      ]
     },
   ],
  
