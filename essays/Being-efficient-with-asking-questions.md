@@ -55,6 +55,13 @@ punishment in itself.
    <faultcode>soapenv:Server.userException</faultcode>
    <faultstring>coldfusion.xml.rpc.CFCInvocationException: [coldfusion.runtime.MissingArgumentException : The SEARCHSTRING parameter to the getFacultyNames function is required but was not passed in.]</faultstring>
 ```
+The parameter type is string.
+I am using
+- WSDL (SOAP)
+- Flex 3.5
+- ActionScript 3
+- ColdFusion 8
+Note that the error does not occur when calling the webservice as an object from a ColdFusion page.
    
 This is a question that has more weight and importance behind it than a normal question. This is a great way to ask and structure a 
 problem that you’ve run into. The user has a perplexing question that sparked the interest of many respondents. The user demonstrates 
