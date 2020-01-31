@@ -11,7 +11,7 @@ labels:
   - Action Shots
   - Live Streaming
   - Video and Photo
-summary: Eight years of videography and photography experience
+summary: Eight years of videography and photography experience. Filmed at many live events and took B-roll for the news. A skill that I will never forget. 
 ---
 
 <img class="ui large right floated rounded image" src="/images/kauaiMarathonNew.jpg">
