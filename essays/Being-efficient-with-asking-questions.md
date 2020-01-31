@@ -37,6 +37,8 @@ doesn’t say how he got to this point or what he’s making the code for, it al
 question on StackOverflow. With all the information you’d wish for, at your fingertips, a simple question like this doesn’t need to be
 on StackOverflow
 
+## Negative outcomes
+
 The negative outcomes that come from a question like this are all the backlash that it generates. The community will answer a question
 like this with passive-aggressiveness, or people treating you as if you are stupid. If you look at some of the responses you would see
 “Does j++ ring any bells?“ Having a horde of programmers answer your question with the same answer and no variation, that is a
@@ -60,6 +62,7 @@ question proved that it was a difficult problem to solve as the solution using a
 running into a bug. This user shows that they know what they are doing, yet they ran into a confusing problem that isn’t easy to solve,
 and that’s a proper use of StackOverflow.
 
+## Positive outcomes
 The positive outcomes that come from this kind of question are that you help out a lot of people by asking it alone. Some people may 
 have gotten stuck with a similar problem but didn’t know how to ask. It’s similar to a classroom, your question might be what others 
 are thinking but just don’t know how to structure the question in the first place. Just based on the votes of the question shows that 
