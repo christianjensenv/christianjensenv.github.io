@@ -77,6 +77,7 @@ the necessary steps to solving a problem is a must before putting a question on 
 for being lazy would be the worst thing possible.
 
 StackOverflow links
-[Bad Question](https://stackoverflow.com/questions/19314079/gives-an-infinite-loop)
-, [Good Question](https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3)
+[Bad Question](https://stackoverflow.com/questions/19314079/gives-an-infinite-loop/)
+, 
+[Good Question](https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3/)
 
