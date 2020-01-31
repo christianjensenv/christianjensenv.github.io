@@ -50,8 +50,8 @@ punishment in itself.
 ```
 <soapenv:Fault>
    <faultcode>soapenv:Server.userException</faultcode>
-   <faultstring>coldfusion.xml.rpc.CFCInvocationException: [coldfusion.runtime.MissingArgumentException : The SEARCHSTRING parameter to the 
-      getFacultyNames function is required but was not passed in.]</faultstring>
+   <faultstring>coldfusion.xml.rpc.CFCInvocationException: [coldfusion.runtime.MissingArgumentException : The SEARCHSTRING parameter
+      to the getFacultyNames function is required but was not passed in.]</faultstring>
    ```
    
 This is a question that has more weight and importance behind it than a normal question. This is a great way to ask and structure a 
