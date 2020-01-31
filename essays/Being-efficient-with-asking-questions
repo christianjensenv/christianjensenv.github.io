@@ -1,0 +1,28 @@
+---
+layout: essay
+type: essay
+title: Being efficient with asking questions
+# All dates must be YYYY-MM-DD format!
+date: 2020-01-29
+labels:
+  - Smart questions
+  - Dumb questions
+---
+
+## An example of a bad question
+###Gives an infinite loop
+
+
+## Solving problems fast
+
+
+## Multiple condition operators
+
+```
+function checksign(num){
+  return num > "positive" : num < 0 ? "negative" : "zero";
+  }
+  
+  checkSign(10);
+```
+
