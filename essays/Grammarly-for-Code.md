@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Grammarly for Code!
 # All dates must be YYYY-MM-DD format!
-date: 2020-03-21
+date: 2020-02-03
 labels:
   - Makes easy to it read
   - Code standards
