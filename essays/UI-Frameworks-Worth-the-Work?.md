@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks - Worth the Work?!
+title: UI Frameworks - Worth the Work?
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-26
 labels:
