@@ -13,7 +13,7 @@ labels:
 *The problem:* 
 Most students spend their time studying and doing class assignments. But where we do these things can greatly affect our workflow and productivity. Noise, environment and many other factors can be the deciding factors that allow students to do their work efficiently and effectively.
 
-*The solution:* Welcome to Study Spot, a place where students can go to find locations that match their studying needs. Users can post places that can be used for studying, a quick break or a place to collaborate with peers. Students can geo pin the locations and give a brief description of their spots. Ratings can be given to these spots so users know where the best spots are.
+*The solution:* Welcome to **Study Spot**, a place where students can go to find locations that match their studying needs. Users can post places that can be used for studying, a quick break or a place to collaborate with peers. Students can geo pin the locations and give a brief description of their spots. Ratings can be given to these spots so users know where the best spots are.
   
 ## Mockup page ideas
 Study spot has a hierarchical structure, where three positions are present. The user, which can post, review and rate. They can also view the locations and descriptions of the spots. The Moderator, which can check for users or postings that don't follow the purpose of the service, either by flagging the post or removing it entirely depending on its severity. And the Admin which has control over Study Spots design and code and can fix bugs if any are present.
