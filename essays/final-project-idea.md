@@ -29,5 +29,13 @@ Study spot has a hierarchical structure, where three positions are present. The 
 * Create accont page
 
 ## Use case ideas
+*The step process from a users POV:*
+* Users will first fall on the landing page which will explain how the service works, and how to get started. They can choose if they want to browse existing spots or make a user get more utilities. Then the user makes an account on the new user page, which can have various customizations. Then they can post a spot.
+* Moderators will fall on the landing page and once logged in will be given access to a hidden page where they can choose to flag or remove posts.
+* Admin will fall on the landing page and once logged in will be given complete access to the site.
 
 ## Beyond the Basics
+* Users can add new spots with geo pinned locations.
+* Users can rate spots on a 1-5 star rating.
+* Users can write reviews on spots.
+* Users can rate reviews on spots.
