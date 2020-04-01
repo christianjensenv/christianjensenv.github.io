@@ -38,4 +38,4 @@ Study spot has a hierarchical structure, where three positions are present. The 
 * Users can add new spots with geo pinned locations.
 * Users can rate spots on a 1-5 star rating.
 * Users can write reviews on spots.
-* Users can rate reviews on spots.
+* Users can rate reviews on spots with up/down votes.
