@@ -8,7 +8,8 @@ labels:
   - Meteor
 ---
 *Authors: Christian Jensen*
-# Study Spot - Final Project
+# Study Spot
+Places on campus for studying, relaxing, or collaborating.
 ## Overview
 *The problem:* 
 Most students spend their time studying and doing class assignments. But where we do these things can greatly affect our workflow and productivity. Noise, environment and many other factors can be the deciding factors that allow students to do their work efficiently and effectively.
