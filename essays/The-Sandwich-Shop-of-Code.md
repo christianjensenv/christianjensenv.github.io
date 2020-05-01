@@ -22,4 +22,4 @@ When developing web apps we have an MVC design pattern in mind, for the most par
 
 ## Use design patterns! They help!
 
-With all the possibilities for error, we need a base for how we solve or approach a problem. Without these structures, out in the world would look like rat nests. The same goes for development, without a course of action and design pattern, it is easy to get lost in confusing code and eventually forget how everything works despite the fact that the coder wrote it in the first place. Design patterns allow us to excel and not have to worry about issues caused by an unorganized mess.
+With all the possibilities for error, we need a base for how we solve or approach a problem. Without these structures, everything would look like a rat nest. The same goes for development, without a course of action and design pattern, it is easy to get lost in confusing code and eventually forget how everything works despite the fact that the coder wrote it in the first place. Design patterns allow us to excel and not have to worry about issues caused by an unorganized mess.
