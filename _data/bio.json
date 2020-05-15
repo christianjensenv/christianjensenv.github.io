@@ -52,9 +52,11 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "Semantic UI"
       ]
-    },
+    }
   ],
   "education": [
     {
@@ -75,8 +77,8 @@
       "website": "http://gh-group.com/",
       "startDate": "2019-06-20",
       "endDate": "2019-07-1",
-      "summary": "Construction summer job",
-    },
-  ],
+      "summary": "Construction summer job"
+    }
+  ]
  
 }

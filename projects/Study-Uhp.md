@@ -13,7 +13,7 @@ summary: A team based sotware development project for a web application that hel
 
 ## What is Study UHp?
 
-[Study Uhp](https://study-uhp.github.io/) is a website application that would help ICS students find tutors and allow tutors to make sessions that others can join. This would encourage students to meet face-to-face in the ICSspace and share knowledge. 
+[Study Uhp](https://study-uhp.github.io/) is a website application that would help ICS students find tutors and allow tutors to make sessions that others can join. This would encourage students to meet face-to-face in the ICSspace and share knowledge. Heres also the [source code](https://github.com/study-uhp/study-uhp).
 
 
 ## Landing Page
