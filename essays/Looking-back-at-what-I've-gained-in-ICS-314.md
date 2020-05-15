@@ -19,30 +19,30 @@ Usually when the average Joe with no understanding of coding or technical comput
 
 ## It's not just about web app development!
 
-<img class="ui medium right floated rounded image" src="/images/team.jpg">
+<img class="ui medium left floated rounded image" src="/images/team.jpg">
 
 I as many was thought to believe that ICS 314 was just all about making websites and learning javascript alongside HTML. But that isn't the case, yeah we learn the ins and outs of these new coding languages but we also gain an in-depth understanding of how they both can live in harmony and how they can communicate with each other. Not only that we learn how we could use these skills to apply other resources to further develop our ideas and help us solve problems. We learn how to think objectively, breaking problems down recursively, and how to work in teams. In the real world being a software developer, usually work is done in teams, and individuals are responsible for a task, which we dove into for our final project. 
 
 ## Functional programming saves time
 
-<img class="ui medium right floated rounded image" src="/images/funtional-js.png">
+<img class="ui medium left floated rounded image" src="/images/funtional-js.png">
 
 What is functional programming? Well in what we learned with javascript, functions can be values, functions can be provided to other functions as arguments, and functions can be returned as the value of other functions. Using this style can make writing code a lot less tedious, from a block of code down to one or two lines, functional programming is a way to reduce bugs, and gives the ability to get done faster using libraries such as underscore. As programmers the faster we code the better, we are lazy, finding the shortest path to a solution can increase our drive to do more. In javascript, a function is a data object, which can make things a lot more simple. Looking back, this is a huge tool for someone like me, I always get fixated on how to make things shorter in code, this was the perfect tool for me to learn.
 
 ## Removing the lint with ESlint
 
-<img class="ui medium right floated rounded image" src="/images/lint.jpg">
+<img class="ui medium left floated rounded image" src="/images/lint.jpg">
 
 Before ESlint I just wonder how many mistakes I've actually made because it helps a TON. Many other students find it tedious to use, but I think it is a game-changer. It is so easy to find potential bugs like misspelling a variable, missing semicolons, wrong function calls, and a lot of other things, as I said a previous essay it's essentially the equivalent to Grammarly for code. I won't be abandoning this tool after this class because of how much it helped me. 
 
 ## Making things look clean and nice
 
-<img class="ui medium right floated rounded image" src="/images/UI.jpg">
+<img class="ui medium left floated rounded image" src="/images/UI.jpg">
 
 UI Frameworks helps software developers make web applications look and feel consistent and look attractive to the eye. It also helps reduces the time for developing a layout for our sites. This way it a web app can reach a broader audience as it can be accessed on a phone, tablet, or computer. I can definitely use this knowledge and put it to good use. The concepts of user interfaces are very important when developing video games, most of the time gamers won't even play a game with a lackluster UI, so this is a great start to learn all its ins and out because they are very similar in a lot of aspects. 
 
 ## Bringing it all together
 
-<img class="ui medium right floated rounded image" src="/images/grow.jpg">
+<img class="ui medium left floated rounded image" src="/images/grow.jpg">
 
 As I grow into my shoes for my goal(video game development), software development can help me design a site to attract potential gamers to my video game and collect feedback using underscore functions. I've always had a knack for computers, and video games, so I love what I do here at college. Solving problems almost gives me a rush as I approach solutions, and I believe this is why it is so easy for me to get interested in any potential knowledge that would guide me in that path. ICS 314 gave me a new set of skills to add to my arsenal, and the more I have the less I need to struggle and the more I can get done.
