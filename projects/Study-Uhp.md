@@ -17,7 +17,6 @@ This is the landing page for Study UHp which I was responsible for. It presented
 
 <img class="ui large floated center rounded image"  src="/images/Landingpage.PNG">
 
-<p>&nbsp;</p>
 
 ## Forms
 
