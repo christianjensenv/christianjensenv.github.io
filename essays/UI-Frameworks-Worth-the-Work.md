@@ -4,7 +4,7 @@ type: essay
 title: UI Frameworks - Worth the Work?
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-26
-image: src="/images/frameworks.png
+image: /images/frameworks.png
 labels:
   - Worth the work
   - Complicated
