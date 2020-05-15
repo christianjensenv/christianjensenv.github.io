@@ -4,19 +4,21 @@
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
 
-<div style=
-         "height: 100%;
-    margin-top: 0px;
-    background-image: url({{ site.baseurl }}/images/Background.jpg );
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;"
-
+<div style="height: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.8),
+            rgba(0, 0, 0, 0.8)),
+              url( {{ site.baseurl }}/images/Background.jpg );
+              no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  overflow: hidden;"
      class="ui middle aligned two column centered stackable grid container">
 
   <div style="text-align: center" class="column">
-    <div class="ui rounded image">
+    <div  class="ui rounded image">
       <img style="max-width: 300px" src="{{ site.data.bio.basics.picture }}">
     </div>
   </div>
@@ -29,7 +31,7 @@
     </p>
     <p>Interests:
       {% for interest in site.data.bio.interests %}
-      {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+        {{ interest.name }}{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </p>
     <p style="text-align: center">
