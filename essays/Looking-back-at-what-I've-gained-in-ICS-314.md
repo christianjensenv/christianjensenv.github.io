@@ -19,7 +19,7 @@ Usually when the average Joe with no understanding of coding or technical comput
 
 ## It's not just about web app development!
 
-<img class="ui large right floated rounded image" src="/images/team.jpg">
+<img class="ui right floated rounded image" src="/images/team.jpg">
 
 I as many was thought to believe that ICS 314 was just all about making websites and learning javascript alongside HTML. But that isn't the case, yeah we learn the ins and outs of these new coding languages but we also gain an in-depth understanding of how they both can live in harmony and how they can communicate with each other. Not only that we learn how we could use these skills to apply other resources to further develop our ideas and help us solve problems. We learn how to think objectively, breaking problems down recursively, and how to work in teams. In the real world being a software developer, usually work is done in teams, and individuals are responsible for a task, which we dove into for our final project. 
 
