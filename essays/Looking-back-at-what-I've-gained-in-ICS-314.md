@@ -6,8 +6,8 @@ date: 2020-05-14
 labels:
     - Skills
     - Knowledge
-    - UI Frameworks
     - Functional Programming
+    - UI Frameworks
     - Coding Standards
 ---
 
@@ -21,6 +21,12 @@ I as many was thought to believe that ICS 314 was just all about making websites
 
 ## Functional programming saves time
 
-What is functional programming? Well in what we learned with javascript, functions can be values, functions can be provided to other functions as arguments, and functions can be returned as the value of other functions. Using this style can make writing code a lot less tedious, from a block of code down to one or two line, functional programming is a way to reduce bugs, and the ability to get done faster using libaries such as underscore. As programmers the faster we code the better, we are lazy, finding the shortest path to a solution the better. In javascript a function is a data object, which can make things alot more simple. Looking back, this is a huge tool for someone like me, I always get fixiated on how to make things shorter in code, this was the perfect tool for me to learn.
+What is functional programming? Well in what we learned with javascript, functions can be values, functions can be provided to other functions as arguments, and functions can be returned as the value of other functions. Using this style can make writing code a lot less tedious, from a block of code down to one or two lines, functional programming is a way to reduce bugs, and gives the ability to get done faster using libraries such as underscore. As programmers the faster we code the better, we are lazy, finding the shortest path to a solution can increase our drive to do more. In javascript, a function is a data object, which can make things a lot more simple. Looking back, this is a huge tool for someone like me, I always get fixated on how to make things shorter in code, this was the perfect tool for me to learn.
 
-## 
+## Making things look clean and nice
+
+UI Frameworks helps software developers make web applications look and feel consistent and look attractive to the eye. It also helps reduces the time for developing a layout for our sites. This way it a web app can reach a broader audience as it can be accessed on a phone, tablet, or computer. I can definitely use this knowledge and put it to good use. The concepts of user interfaces are very important when developing video games, most of the time gamers won't even play a game with a lackluster UI, so this is a great start to learn all its ins and out because they are very similar in a lot of aspects. 
+
+## Bringing it all together
+
+As I grow into my shoes for my goal(video game development), software development can help me design a site to attract potential gamers to my video game and collect feedback using underscore functions. I've always had a knack for computers, and video games, so I love what I do here at college. Solving problems almost gives me a rush as I approach solutions, and I believe this is why it is so easy for me to get interested in any potential knowledge that would guide me in that path. ICS 314 gave me a new set of skills to add to my arsenal, and the more I have the less I need to struggle and the more I can get done.
