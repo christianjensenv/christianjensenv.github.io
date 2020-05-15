@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/construction1.jpg
 title: Shopping Mall Project
-permalink: projects/cotton
+permalink: projects/Shopping Mall Project
 # All dates must be YYYY-MM-DD format!
 date: 2019-06-20
 labels:
