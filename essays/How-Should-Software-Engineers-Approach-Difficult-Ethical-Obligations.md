@@ -8,7 +8,7 @@ labels:
   - Code of ethics
 ---
 
-<img class="ui medium left floated rounded image" src="/images/ethics.png">
+<img class="ui massive left floated rounded image" src="/images/ethics.png">
 <p>&nbsp;</p>
 
 

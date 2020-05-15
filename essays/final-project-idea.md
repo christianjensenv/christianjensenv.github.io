@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-<img class="ui medium left floated rounded image" src="/images/studyingPerson.jpg">
+<img class="ui massive left floated rounded image" src="/images/studyingPerson.jpg">
 <p>&nbsp;</p>
 
 *Authors: Christian Jensen*

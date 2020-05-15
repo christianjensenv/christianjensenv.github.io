@@ -10,7 +10,7 @@ labels:
   - Why use it
 ---
 
-<img class="ui medium top aligned floated rounded image" src="/images/frameworks.png">
+<img class="ui massive center floated rounded image" src="/images/frameworks.png">
 <p>&nbsp;</p>
 
 ## The original way

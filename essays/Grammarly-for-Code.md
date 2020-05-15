@@ -9,7 +9,7 @@ labels:
   - Code standards
 ---
 
-<img class="ui medium left floated rounded image" src="/images/ESlint.webp">
+<img class="ui massive left floated rounded image" src="/images/ESlint.webp">
 <p>&nbsp;</p>
 
 ## Why it is Important

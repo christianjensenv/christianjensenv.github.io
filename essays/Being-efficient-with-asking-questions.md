@@ -10,7 +10,7 @@ labels:
   - How to ask
 ---
 
-<img class="ui medium left floated rounded image" src="/images/questionMark.jpg">
+<img class="ui massive left floated rounded image" src="/images/questionMark.jpg">
 <p>&nbsp;</p>
 
 ## An example of a bad question

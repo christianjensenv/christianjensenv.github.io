@@ -8,7 +8,7 @@ labels:
   - Visual and Intuitive
 ---
 
-<img class="ui medium left floated rounded image" src="/images/sandwich.jpg">
+<img class="ui massive left floated rounded image" src="/images/sandwich.jpg">
 <p>&nbsp;</p>
 
 

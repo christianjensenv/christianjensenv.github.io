@@ -10,7 +10,7 @@ labels:
   - College life
 ---
 
-<img class="ui medium left floated rounded image" src="/images/covid19.jpg">
+<img class="ui massive left floated rounded image" src="/images/covid19.jpg">
 <p>&nbsp;</p>
 
 

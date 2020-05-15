@@ -9,7 +9,7 @@ labels:
   - Cool
 ---
 
-<img class="ui medium left floated rounded image" src="/images/javascript.gif">
+<img class="ui massive left floated rounded image" src="/images/javascript.gif">
 <p>&nbsp;</p>
 
 
