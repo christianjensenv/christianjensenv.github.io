@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/studyup_logo_square.png
-title: Shopping Mall Project
+title: Study Uhp Project
 permalink: projects/Study UHp
 date: 2020-05-14
 labels:
