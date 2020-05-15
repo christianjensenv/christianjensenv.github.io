@@ -16,6 +16,7 @@ summary: A team based sotware development project for a web application that hel
 This is the landing page for Study UHp which I was responsible for. It presented a new challenge in which I thought it would look nice and make more sense from a secure standpoint, to hide the navbar and footer. This way it has a similar aesthetic to a site like [tumblr.com](https://www.tumblr.com/). It was found that this wasn't as trivial as I thought. Aaron, one of my teammates had great ideas in which allowed us to make this possible. Working in my first team-based project, I usually don't have that kind of help when it comes to figuring out a solution. We also thought we could make the Sign In, Sign Up buttons more inviting and interesting by ditching the bland flat color. So I found out how to use CSS and found many good resources in which I picked for the moving highlight. Also, it stays true to our theme as the mouse hovers over. We also found this cool parallax npm that we applied to the logo and makes more interactivity to the first thing that the user sees. Learning all the quirks when resizing the page helped me make it look more seamless, and overall learned alot from this part of the project.  
 
 <img class="ui large floated center rounded image"  src="/images/Landingpage.PNG">
+
 <p>&nbsp;</p>
 
 ## Forms
