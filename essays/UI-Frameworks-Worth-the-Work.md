@@ -4,14 +4,13 @@ type: essay
 title: UI Frameworks - Worth the Work?
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-26
-image: /images/frameworks.png
 labels:
   - Worth the work
   - Complicated
   - Why use it
 ---
 
-<img class="ui medium left floated rounded image" src="/images/frameworks.png">
+<img class="ui medium top aligned floated rounded image" src="/images/frameworks.png">
 <p>&nbsp;</p>
 
 ## The original way
