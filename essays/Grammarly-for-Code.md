@@ -9,6 +9,9 @@ labels:
   - Code standards
 ---
 
+<img class="ui medium left floated rounded image" src="/images/ESlint.webp">
+<p>&nbsp;</p>
+
 ## Why it is Important
 
 The reason why coding standards are important is that it gives a universal standard to follow to make code easier to read and to make it less messy. If you think of it just like the MLA or APA format for writing it coding standards are something everyone can follow to practice good habits and to have readable code. Being neat with how you format your code could make the difference in getting a job versus someone beating you to it. When you remember how code is formated it almost reinforces the memorization of code blocks that everyone should know; the simple stuff. Coding standards are good going into the future as it will always improve and show new formats to make code look even neater. 

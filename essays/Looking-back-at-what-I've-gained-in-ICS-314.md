@@ -11,6 +11,9 @@ labels:
     - Coding Standards
 ---
 
+<img class="ui medium left floated rounded image" src="/images/lookingBack.jpg">
+<p>&nbsp;</p>
+
 ## First of what the heck is Software Development, and why we need it?
 
 <img class="ui medium left floated rounded image" src="/images/hackerman.jpg">

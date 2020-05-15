@@ -7,6 +7,10 @@ labels:
   - Software Engineering
   - Meteor
 ---
+
+<img class="ui medium left floated rounded image" src="/images/studyingPerson.jpg">
+<p>&nbsp;</p>
+
 *Authors: Christian Jensen*
 # Study Spot
 Places on campus for studying, relaxing, or collaborating.

@@ -10,6 +10,10 @@ labels:
   - College life
 ---
 
+<img class="ui medium left floated rounded image" src="/images/covid19.jpg">
+<p>&nbsp;</p>
+
+
 ## College life
 Living on campus my college life as a student surprisingly hasn't changed all that much. I'm an introvert at heart which makes it easy for me to adjust to the new changes in effect due to the virus. I get my social fix via online video games, which is a solution to other things like stress and boredom. Social interaction can have a positive influence on human beings both physically and mentally so finding conventions that abide by social distancing and other practices is important. My daily routines are a bit different but I don't mind it at all. Using Zoom is a bit fresh but it's not that strange considering that most professors are using the same material they would teach on the projector anyways. I do miss physically going to classes but the good thing is that using Zoom allows me to hear the Instructor very clearly without too much static. Getting food from the cafeteria isn't that much different from what I did before either, usually, I get a take out box anyway, so the new procedures for getting lunch or dinner is similar to what I did before. The silver lining in this is that COVID-19 is a respiratory virus so that means that you don't have to worry too much when it comes to eating food from the supermarkets or cafeterias. 
 
