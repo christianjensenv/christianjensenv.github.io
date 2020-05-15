@@ -21,4 +21,6 @@ I as many was thought to believe that ICS 314 was just all about making websites
 
 ## Functional programming saves time
 
-What is functional programming? Well in what we learned with javascript, functions can be values, functions can be provided to other functions as arguments, and functions can be returned as the value of other functions. Using this style can make writing code a lot less tedious, from a block of code down to one or two line, functional programming is a way to reduce bugs, and the ability to get done faster using libaries such as underscore. As programmers the faster we code the better, we are lazy, finding the shortest path to a solution the better. In javascript a function is a data object, which can make things alot more simple. 
+What is functional programming? Well in what we learned with javascript, functions can be values, functions can be provided to other functions as arguments, and functions can be returned as the value of other functions. Using this style can make writing code a lot less tedious, from a block of code down to one or two line, functional programming is a way to reduce bugs, and the ability to get done faster using libaries such as underscore. As programmers the faster we code the better, we are lazy, finding the shortest path to a solution the better. In javascript a function is a data object, which can make things alot more simple. Looking back, this is a huge tool for someone like me, I always get fixiated on how to make things shorter in code, this was the perfect tool for me to learn.
+
+## 
