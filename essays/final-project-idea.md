@@ -8,14 +8,14 @@ labels:
   - Meteor
 ---
 
-<img class="ui massive left floated rounded image" src="/images/studyingPerson.jpg">
+<img class="ui massive left floated rounded image" src="/images/studyingPerson.jpg" alt="">
 <p>&nbsp;</p>
 
 *Authors: Christian Jensen*
 # Study Spot
 Places on campus for studying, relaxing, or collaborating.
 ## Overview
-*The problem:* 
+*The problem:*
 Most students spend their time studying and doing class assignments. But where we do these things can greatly affect our workflow and productivity. Noise, environment and many other factors can be the deciding factors that allow students to do their work efficiently and effectively.
 
 *The solution:* Welcome to **Study Spot**, a place where students can go to find locations that match their studying needs. Users can post places that can be used for studying, a quick break or a place to collaborate with peers. Students can geo pin the locations and give a brief description of their spots. Ratings can be given to these spots so users know where the best spots are.

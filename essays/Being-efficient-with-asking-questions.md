@@ -16,7 +16,7 @@ labels:
 ## An example of a bad question
 
 - Gives an infinite loop
-    I am using a List in Java and I am iterating through the collection to work with the created list
+    I am using a List in Java, and I am iterating through the collection to work with the created list
     of integer values. Why is this resulting in an infinite loop?
 ```
 int i = 0;
@@ -38,13 +38,13 @@ this user should have dissected each line by itself to find the problem. By prin
 very easily. The "j" integer doesn't increment, therefore the while loop is always true. It’s not helpful that the question asker 
 doesn’t say how he got to this point or what he’s making the code for, it almost seems like an example of someone posting a homework
 question on StackOverflow. With all the information you’d wish for, at your fingertips, a simple question like this doesn’t need to be
-on StackOverflow
+on StackOverflow.
 
 ## Negative outcomes
 
 The negative outcomes that come from a question like this are all the backlash that it generates. The community will answer a question
-like this with passive-aggressiveness, or people treating you as if you are stupid. If you look at some of the responses you would see
-“Does j++ ring any bells?“ Having a horde of programmers answer your question with the same answer and no variation, that is a
+like this with passive-aggressiveness, or people treating you as if you are stupid. If you look at some responses you would see
+“Does j++ ring any bells?“ Having a horde of programmers answers your question with the same answer and no variation, that is a
 punishment in itself. 
 
 ## An example of a good question
@@ -59,7 +59,7 @@ punishment in itself.
    <faultstring>coldfusion.xml.rpc.CFCInvocationException: [coldfusion.runtime.MissingArgumentException : The SEARCHSTRING parameter to the getFacultyNames function is required but was not passed in.]</faultstring>
 ```
 The parameter type is string.
-I am using
+I am using:
 - WSDL (SOAP)
 - Flex 3.5
 - ActionScript 3
@@ -74,15 +74,15 @@ running into a bug. This user shows that they know what they are doing, yet they
 and that’s a proper use of StackOverflow.
 
 ## Positive outcomes
-The positive outcomes that come from this kind of question are that you help out a lot of people by asking it alone. Some people may 
-have gotten stuck with a similar problem but didn’t know how to ask. It’s similar to a classroom, your question might be what others 
-are thinking but just don’t know how to structure the question in the first place. Just based on the votes of the question shows that 
-my point isn’t far from the truth. On the other side of the question, it helps respondents exercise their skills, you get much more 
+The positive outcomes that come from this kind of question are that you help out a lot of people by asking it alone. Some people may
+have gotten stuck with a similar problem but didn’t know how to ask. It’s similar to a classroom, your question might be what others
+are thinking but just don’t know how to structure the question in the first place. Just based on the votes of the question shows that
+my point isn’t far from the truth. On the other side of the question, it helps respondents exercise their skills, you get much more
 meaningful answers this way.
 
 ## In conclusion
 
-There is no such thing as a stupid question but knowing when to post it up or to do your own research is two different things. Having 
+There is no such thing as a stupid question but knowing when to post it up or to do your own research is two different things. Having
 the necessary steps to solving a problem is a must before putting a question on the web, especially on StackOverflow. Being called out
 for being lazy would be the worst thing possible.
 
