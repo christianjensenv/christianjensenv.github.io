@@ -8,7 +8,7 @@ Provide front matter so Jekyll processes this file as SASS.
   // Customize the background color
 body {
   background: url("/images/Background.jpg");
-  filter: blur(8px);
+  backdrop-filter: blur(8px);
   -webkit-filter: blur(8px);
   height: 100%;
   background-position: center;
