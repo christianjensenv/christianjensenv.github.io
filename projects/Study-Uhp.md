@@ -24,3 +24,16 @@ I was also responsible for updating the uniforms for the add session, and edit s
 
 <img class="ui massive floated center rounded image" src="/images/dayPick.PNG">
 <img class="ui massive floated center rounded image" src="/images/timePick.PNG">
+<p>&nbsp;</p>
+
+## Maintaining home page
+
+I also took a majority of the responsibility of updating the study-uhp.github.io page. That wasn't all that hard. Keeping up with what we are going to do and what we did. 
+
+## How I think about teammwork
+
+Working in a team was a great experience for me as we used new tools to keep track of what needs to be done using Github organizations and making milestones with issues. I wish we could have met in person as I feel efficiency would improve tenfold, someone like me who isn't as adept as others on my team could get a better understanding of concepts in person as it is easier to explain and demonstrate. Additionally seeing everyone work nearby and sharing ideas is where it's at. Through discord or Zoom, it isn't the same as ideas may be translated incorrectly which wastes more time in the long run. I wanted to do so much more with what I wanted to bring to the table, but I'd get stuck on these little bugs that would be a prick in my behind. 
+
+## So how could I improve? 
+
+I think being my first team project, I am just not used to how others work. When I work alone, I know what I am touching and understand how things work as I coded them. But seeing others code that isn't entirely clear made it difficult for me to understand. So to fix this I would probably request more commented work, or I need to get better at reading others code and understand their thought process behind it. 
