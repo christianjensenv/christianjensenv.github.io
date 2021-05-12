@@ -9,7 +9,7 @@ labels:
 - React
 ---
 
-<h1 style="text-align:center">Shocking Developments</h1>
+<h1 style="text-align:center; size:50vm">Shocking Developments</h1>
 
 [Github Repo](https://github.com/shocking-development/shockingdevelopment), 
 [Project Page](https://shocking-development.github.io/),
