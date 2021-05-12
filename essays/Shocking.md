@@ -37,6 +37,13 @@ Our team accomplished this by creating project issues with each other that were 
 <img class="ui massive centered floated rounded image" src="/images/signout.png" alt="">
 <p style="text-align:center">Sign Out</p>
 
+### My Contributions to Virtual Manoa Coders
+*My contributions to my old group before the move*
+
+For this group, the contributions delivered by me:
+
+Created a car comparator page which showed pros and cons of each type of car, electric and gas. I also updated the github.io page with the updates we had then.
+
 ### My Contributions
 *We used the milestone project structure which consists of issues to keep ourselves on track*
 
@@ -56,20 +63,13 @@ For Milestone 6, the contributions delivered by me:
 
 Added a way to filter car types such as gas and electric to the existing car database. Simplified css code and centered tables on the home page, changed the colors, and tested it for full screen. Revamped the footer to make it more visually appealing and added a URL directory to HEI's logo. Added two-click sign out to prevent users from accidentally logging off. Fixed dropdown on navbar for calculators, lastly fixed all ES-Lint errors so that we were passing on Github.
 
-### My Contributions to Virtual Manoa Coders
-*My contributions to my old group before the move*
-
-
-For this group, the contributions delivered by me:
-
-Created a car comparator page which showed pros and cons of each type of car, electric and gas. I also updated the github.io page with the updates we had then. 
-
 ### Challenges That I Experienced
 
 - **Time management**
   
   This was always a hurdle when it comes to online classes these days, but my team and I combat this by having frequent meetings to check up on how everyone was doing which helped immensely. Also being a semester long project, gave use more room to be more meticulous about our code.
   
+
 - **ICS 414 Online**
   
   This class being 100% online was a challenge in itself but not something that hindered my experience. However I do miss the in person interaction, and being able to ask questions in person as it is more memorable. 
@@ -80,4 +80,4 @@ Created a car comparator page which showed pros and cons of each type of car, el
   We mainly used Discord as a way to communicate, this was most convenient as we were on our computer for most of the day anyways. This is how we met up for team meetings and discussed problems that we needed help with. I enjoyed this because it helps everyone stay on track.
 
 <img class="ui massive centered floated rounded image" src="/images/discord.png" alt="">
-<p style="text-align:center">Discord Channel</p>
+<p style="text-align:center">A screenshot of Shocking Development Discord</p>
