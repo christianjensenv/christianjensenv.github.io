@@ -33,7 +33,7 @@ Our team accomplished this by creating project issues with each other that were 
 <img class="ui massive centered floated rounded image" src="/images/landingPageM4.png" alt="">
 <p style="text-align:center">Landing Page</p>
 <img class="ui massive centered floated rounded image" src="/images/editProfile.PNG" alt="">
-<p style="text-align:center">Navbar example</p>
+<p style="text-align:center">Navbar and edit profile example</p>
 <img class="ui massive centered floated rounded image" src="/images/signout.png" alt="">
 <p style="text-align:center">Sign Out</p>
 
