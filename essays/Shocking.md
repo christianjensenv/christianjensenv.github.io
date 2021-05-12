@@ -32,6 +32,10 @@ Our team accomplished this by creating project issues with each other that were 
 
 <img class="ui massive centered floated rounded image" src="/images/landingPageM4.png" alt="">
 <p style="text-align:center">Landing Page</p>
+<img class="ui massive centered floated rounded image" src="/images/editProfile.PNG" alt="">
+<p style="text-align:center">Navbar example</p>
+<img class="ui massive centered floated rounded image" src="/images/signout.png.png" alt="">
+<p style="text-align:center">Sign Out</p>
 
 ### My Contributions
 *We used the milestone project structure which consists of issues to keep ourselves on track*
