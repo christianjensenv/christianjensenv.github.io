@@ -78,3 +78,6 @@ Created a car comparator page which showed pros and cons of each type of car, el
 - **Communication**
   
   We mainly used Discord as a way to communicate, this was most convenient as we were on our computer for most of the day anyways. This is how we met up for team meetings and discussed problems that we needed help with. I enjoyed this because it helps everyone stay on track.
+
+<img class="ui massive centered floated rounded image" src="/images/discord.png" alt="">
+<p style="text-align:center">Discord Channel</p>
